@@ -1,0 +1,6 @@
+build/
+out/
+.vs/
+*.user
+*.wav
+!plugins/**/tests/data/*.wav
